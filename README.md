@@ -76,5 +76,8 @@ I'm always open to discussing research, internships, or collaboration opportunit
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mani-ratan-159963289">LinkedIn</a> •
+  <a href="https://www.kaggle.com/mani787060"> Kaggle</a>
   <a href="mailto:mani787060@gmail.com">Email</a>
+  
+  
 </p>
