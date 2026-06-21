@@ -113,6 +113,53 @@ status: Open to opportunities 🟢
 
 <br>
 
+## 📈 Activity Overview
+
+<div align="center">
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Recent focus areas:**
+
+🧬 Multimodal deep learning research (ASCERTAIN)
+🤖 End-to-end ML app deployment
+📊 Data pipelines & analytics dashboards
+🩺 Healthcare diagnostic models
+🔍 NLP & information extraction systems
+
+<br>
+
+**Currently contributing to:**
+[`mani787060/mani787060`](https://github.com/mani787060/mani787060) · [`mani787060/primetrade-assignment`](https://github.com/mani787060/primetrade-assignment) and other active repositories
+
+</td>
+<td width="45%" valign="top" align="center">
+
+```mermaid
+pie showData
+    "Deep Learning" : 35
+    "Data Science" : 25
+    "NLP / GenAI" : 20
+    "Web / Deployment" : 12
+    "Research Writing" : 8
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/mani787060/mani787060/output/github-contribution-grid-snake.svg" width="100%" />
+
+</div>
+
+<br>
+
 ## 🚀 Featured Work
 
 <table>
