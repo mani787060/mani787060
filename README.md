@@ -1,83 +1,192 @@
-<h1 align="center">Hi, I'm Mani Ratan 👋</h1>
-<h3 align="center">Building Deep Learning Systems for Healthcare, Multimodal AI & Real-World ML</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mani-ratan-159963289">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mani787060@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Mani%20Ratan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Research%20Intern%20%40%20IIT%20Roorkee&descAlignY=55&descSize=18" width="100%"/>
 
----
+<br>
 
-### 🔭 About Me
+<a href="https://www.linkedin.com/in/mani-ratan-159963289">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://kaggle.com/mani787060">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="mailto:mani787060@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=mani787060&style=for-the-badge&color=1e3a8a&label=PROFILE+VIEWS" />
 
-I'm a **B.Tech CSE (AI & Data Science)** student at **IIIT Senapati, Manipur** (Class of 2027), currently working as a **Research Intern at IIT Roorkee**, where I design deep learning architectures for multimodal emotion and personality recognition from physiological signals (EEG, ECG, GSR).
+</div>
 
-I care about taking ML from notebook to production — from research-grade architectures to deployed, usable applications.
+<br>
 
-- 🧠 Currently building a **TabTransformer + ResNet hybrid** for multimodal emotion/personality recognition on the ASCERTAIN dataset — surpassing published SVM/Naive Bayes baselines
-- 🚀 Shipped multiple **end-to-end ML apps**: computer vision + NLP engines, medical diagnostic tools, and fraud detection systems
-- 🌱 Deepening my knowledge of **Transformers, GANs, and Diffusion Models**
-- 💼 Open to **internships, research collaborations, and full-time opportunities** in AI/ML
+## 🧭 About Me
 
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### 🛠️ Tech Stack
+I'm a **B.Tech CSE (AI & Data Science)** student at **IIIT Senapati, Manipur** (Class of 2027), currently a **Research Intern at IIT Roorkee**, designing deep learning architectures for multimodal emotion and personality recognition from physiological signals (EEG · ECG · GSR).
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+I focus on taking ML from **research notebook → production system** — not just training models, but shipping things people can actually use.
 
----
+**Right now:**
+- 🧬 Building a **TabTransformer + ResNet hybrid** on the ASCERTAIN dataset — outperforming the published SVM / Naive Bayes baselines
+- 🚀 Shipped end-to-end ML apps across CV, NLP, and healthcare diagnostics
+- 📚 Going deep on **Transformers, GANs & Diffusion Models**
+- 💼 **Open to internships, research collabs & full-time AI/ML roles**
 
-### 🚀 Featured Work
+</td>
+<td width="40%" valign="top">
 
-| Project | What it does |
-|---|---|
-| 🧬 **[Emotion & Personality Recognition (ASCERTAIN)](#)** | TabTransformer + ResNet hybrid with modality-specific branches (EEG, ECG, GSR, EMO) for multimodal affect recognition — beats published baseline F1 |
-| 👁️ **[VisionChat-App](https://github.com/mani787060/VisionChat-App)** | Multimodal AI engine combining computer vision + NLP: image captioning, visual question answering, and text-to-speech |
-| 📄 **[AI-Resume-Analyzer](https://github.com/mani787060/AI-Resume-Analyzer)** | NLP pipeline using spaCy/NLTK to extract candidate profile metrics from resumes with interactive analytics dashboards |
-| 🩺 **[Thyroid-AI-Diagnostic](https://github.com/mani787060/Thyroid-AI-Diagnostic)** | CatBoost-ANN hybrid ensemble for high-precision thyroid disorder diagnosis |
-| 💳 **[Credit-Card-Fraud-Detection](https://github.com/mani787060/credit-card-fraud-detection-app)** | Streamlit app for real-time fraud detection using a trained ML model |
-| ❤️ **[Heart-Disease-Predictor](https://github.com/mani787060/heart-disease-predictor-app)** | ML-powered Streamlit app predicting heart disease risk from patient data |
+```yaml
+name: Mani Ratan
+role: AI/ML Engineer
+focus: Deep Learning · Multimodal AI
+education: B.Tech CSE (AI & DS)
+institute: IIIT Senapati, Manipur
+current: Research Intern @ IIT Roorkee
+status: Open to opportunities 🟢
+```
 
----
+</td>
+</tr>
+</table>
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mani787060&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani787060&theme=radical&hide_border=true" width="48%" />
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani787060&layout=compact&theme=radical&hide_border=true" width="60%" />
-</p>
+<div align="center">
 
----
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,postgres&theme=dark" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,keras&theme=dark" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=catboost&logoColor=black" />
+<img src="https://img.shields.io/badge/PyCaret-2E8B57?style=flat-square" />
+<img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Vision%20Transformer-FF6F61?style=flat-square" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat-square" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/PyMuPDF-CC2229?style=flat-square" />
+<img src="https://img.shields.io/badge/TiDB%20Cloud-ED2024?style=flat-square&logo=tidb&logoColor=white" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,docker,aws,jupyter&theme=dark" />
+
+<br><br>
+
+</div>
+
+<br>
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<th align="left" width="32%">Project</th>
+<th align="left">What it does</th>
+</tr>
+<tr>
+<td>🧬 <a href="#"><b>Emotion & Personality Recognition</b></a><br><sub>ASCERTAIN Dataset</sub></td>
+<td>TabTransformer + ResNet hybrid with modality-specific branches (EEG, ECG, GSR, EMO) — beats published baseline F1</td>
+</tr>
+<tr>
+<td>👁️ <a href="https://github.com/mani787060/VisionChat-App"><b>VisionChat-App</b></a></td>
+<td>Multimodal CV + NLP engine: image captioning, visual question answering, text-to-speech</td>
+</tr>
+<tr>
+<td>📄 <a href="https://github.com/mani787060/AI-Resume-Analyzer"><b>AI-Resume-Analyzer</b></a></td>
+<td>NLP pipeline (spaCy/NLTK) extracting candidate metrics with interactive analytics dashboards</td>
+</tr>
+<tr>
+<td>🩺 <a href="https://github.com/mani787060/Thyroid-AI-Diagnostic"><b>Thyroid-AI-Diagnostic</b></a></td>
+<td>CatBoost-ANN hybrid ensemble for high-precision thyroid disorder diagnosis</td>
+</tr>
+<tr>
+<td>💳 <a href="https://github.com/mani787060/credit-card-fraud-detection-app"><b>Credit Card Fraud Detection</b></a></td>
+<td>Streamlit app for real-time fraud detection using a trained ML model</td>
+</tr>
+<tr>
+<td>❤️ <a href="https://github.com/mani787060/heart-disease-predictor-app"><b>Heart Disease Predictor</b></a></td>
+<td>Streamlit app predicting heart disease risk from patient data</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mani787060&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mani787060&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani787060&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
 
 ### 📫 Let's Connect
 
-I'm always open to discussing research, internships, or collaboration opportunities in ML/AI.
+<a href="https://www.linkedin.com/in/mani-ratan-159963289">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/mani787060">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://kaggle.com/mani787060">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="https://sparkling-biscuit-bdf258.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:mani787060@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mani-ratan-159963289">LinkedIn</a> •
-  <a href="https://www.kaggle.com/mani787060"> Kaggle</a>
-  <a href="mailto:mani787060@gmail.com">Email</a>
-  
-  
-</p>
+<br><br>
+
+<i>Open to AI/ML internships, research collaborations & full-time roles</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
